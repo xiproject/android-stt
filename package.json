@@ -1,0 +1,16 @@
+{
+  "name": "android-stt",
+  "version": "0.0.0",
+  "description": "This module uses Android's speech to text capabilities to provide voice recognition for Xi.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^2.8.3",
+    "underscore": "^1.7.0"
+  }
+}
